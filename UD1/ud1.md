@@ -18,29 +18,32 @@ Hace unos años, la industria tecnologica en sevilla no terminaba de explotar su
  En el año 2024, aumentaron los empleados con certificacion de tecnico superior, siendo el 19% de los empleados. Este cambio refleja una tendencia creciente por parte de las entidades a incorporar perfiles procedentes de formación profesional.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - [ ] **2. Selección de la empresa o contexto de trabajo**
+
+## Analisis de la Empresa
+ 
+ La empresa que voy a seleccionar es [GMV](https://www.gmv.com/es-es), una empresa multinacional dedicada a la ingenieria y tecnologia.
+ Su actividad se divise en 4 puntos:
+ - Espacio:  Son lideres mundiales en centros de control de satelites , defensa planetaria y navegación por satelite.
+ - Defensa y Seguridad: Desarrollan sistemas de vigilancia de fronteras, ciberdefensa militar y simulacion para las fuerzas armadas.
+ - Sistemas Inteligentes de Transporte: Crean tecnologias que gestionan flotas de autobuses y trenes.
+ - Sanidad y Ciberseguridad: Potentes divisiones en telemedicina, big data sanitario y proteccion de infraestructuras contra ciberataques.
+
+## Como se organiza
+ GMV no es una empresa unica, es un grupo empresarial, que tiene varias filiales especializadas en los campos comentados anteriormente:
+ 
+ - GMV Aerospace and Defense S.A.U: Se encarga de todos los contratos aeroespaciales y de defensa.
+ - GMV Soluciones Globales Internet S.A.U: Enfocada en ciberseguridad, banca, transformacion digital y servicios TIC.
+ - GMV Sistemas S.A.U: Centrada en el sector de transporte e industria automotriz
+ 
+
+### Papel de la informatica y los Sistemas en su dia a dia
+En GMV es el producto final, la ingenieria de software y los sistemas son el corazon de todo lo que hacen:
+
+- Software: Desarrollan software para maquinas fisicas críticas como satelites, por lo que el codigo debe ser ultraseguro y sin fallos.
+- Ciberseguridad: Los sistemas se diseñan con un esquema de seguridad robusto asumiendo todos los riesgos que puedan tener.
+- Infraestructura Híbridad: Usan nubes privadas y públicas para procesar cantidades masivas de datos
+
 - [ ] **3. Identificación de necesidades tecnológicas**
 - [ ] **4. Oportunidades y viabilidad del proyecto**
 - [ ] **5. Obligaciones legales y normativas**
