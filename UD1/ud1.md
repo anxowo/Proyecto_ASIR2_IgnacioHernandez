@@ -2,37 +2,20 @@
 
 # UD1 – Análisis del entorno y detección de necesidades tecnológicas
 
-## Índice de apartados
-
 - [ ] **1. Análisis del sector tecnológico**
 
 ![sevillatechpark](/UD1/img/techpark.png)
 
-## Situacion actual del sector tecnologico en sevilla
+## Sector Tecnologico en Sevilla
 
-En Sevilla el sector tecnologico ya no es tan solo una promesa a futuro, sino que ya funciona como un pilar economico consolidado. Segun datos del **[informe de resultados del techpark en 2024](/UD1/documentos/Informe-Resultados_Sevilla-TechPark_DEF.pdf)**, cerrando el año con una facturacion record de **4.850 millones de euros**, lo que implica un crecimiento del 8% respecto al año anterior.
+Hace unos años, la industria tecnologica en sevilla no terminaba de explotar su potencial, pero a partir del 2020 hasta hoy dia no ha parado de crecer, lo podemos ver reflejado en una de las zonas que producen una parte de la riqueza de sevilla el [Sevilla Tech Park](https://sevillatechpark.es).
 
-Aunque podriamos decir que el indice de crecimiento en años anteriores fue mayor, es decir, que la mejora de 22-23 fue mayor a la del 23-24, esto implica mas bien una estabilizacion del sector y no necesariamente algo negativo.
-
-
+ Teniendo en cuenta el [informe](/UD1/documentos/sevillatechpark.pdf) del año 2024, el Sevilla Tech Park generó unos 5.513 Millones de euros, lo que equivale al 11.2% del PIB de la provincia de Sevilla, acogió a 575 entidades que proporcionaban 31000 empleos.
+ Dentro de esta entidad la mayor parte de las empresas y empleados pertenecen al sector de las tecnologias avanzadas, que a su vez dentro de ellas, el sector con mas impacto es el sector de Telecomunicaciones e Informatica, suponiendo el 32% de estas.
+ Los datos del sector son bastante notables, siendo 94 empresas especializadas solamente en las TIC que generan 995 Millones de euros al año y contando con 11.967 empleados. 
 
 ## Demanda de empleo y especializacion
-
-Lo mas relevante, seguramente, para un estudiante de ASIR y futuro tecnico superior, es el empleo, y por suerte este no hace mas que crecer. A finales de 2024, el tech park de sevilla emnplea a **31.667 trabajadores** mas, un incremento de un **7,2% anual**. Ademas el ecosistema de empresas en sevilla ha alcanzado las **144 empresas** de alta innovacion registradas, generando empleo cualificado y estable.
-
-La especializacion 
-
-* **94 empresas especializadas** puramente en TIC.
-* Una facturación específica de **995 millones de euros**.
-* Una importante empleabilidad, con **11.967 profesionales**.
-
-
-## Necesidades detectadas
-
-1.  **Administración de infraestructuras críticas:** Para soportar la carga de trabajo de las casi 600 empresas del parque tecnológico.
-2.  **Seguridad en redes corporativas:** Vital para proteger los activos de un sector que crece a doble dígito.
-
-3.  **Virtualización y Cloud:** Tecnologías obligatorias para las 251 *startups* sevillanas que requieren despliegues rápidos y flexibles.
+ En el año 2024, aumentaron los empleados con certificacion de tecnico superior, siendo el 19% de los empleados. Este cambio refleja una tendencia creciente por parte de las entidades a incorporar perfiles procedentes de formación profesional.
 
 
 
