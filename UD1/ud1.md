@@ -6,7 +6,7 @@
 
 - [ ] **1. Análisis del sector tecnológico**
 
-![sevillatechpark](/UD1/img/sevillatechpark.png)
+![sevillatechpark](/UD1/img/techpark.png)
 
 ## Situacion actual del sector tecnologico en sevilla
 
