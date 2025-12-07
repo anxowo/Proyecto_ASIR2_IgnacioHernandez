@@ -58,6 +58,10 @@ Teniendo en  cuenta que GMV es una empresa a nivel mundial no necesita ningun pr
 Para gestionar cada uno de estos procesos, crearemos las soluciones propias:
 
 - Crearemos una granja de servidores a los que los usuarios de la empresa accedan y tengan directamente una gran potencia que proviene de los servidores.
+
+![sevillatechpark](/UD1/img/esquema-granja-servidores-proyecto.png)
+
+
 -  Implementaremos verificación en dos pasos para que los usuarios de la empresa accedan a la potencia del servidor e insertaremos una micro-segmentacion de la red, con un firewall que no permita al usuario mas que acceder a la aplicacion que le sea necesaria para trabajar y encriptaremos todo el trafico.
 -  Crearemos imagenes dispositivos generales para los perfiles que usen las maquinas y asi siempre poder insertar maquinas donde y cuando queramos sin necesidad de desperdiciar tiempo en configurar individualmente cada dispositivo.
 
@@ -80,6 +84,9 @@ Para gestionar cada uno de estos procesos, crearemos las soluciones propias:
 - Licencias de Software, Necesitaria las licencias de windows (por volumen) para los sistemas de los empleados.
 
 - Al proponer un sistema de teletrabajo, Ley de trabajo a distancia (Ley 10/2021)
+
+
+![sevillatechpark](/UD1/img/leyes-proyecto.png)
 
 - [ ] **6. Guion inicial del proyecto**
 #### Nombre: Despliegue de infraestructura segura con arquitectura Zero Trust para entornos críticos
