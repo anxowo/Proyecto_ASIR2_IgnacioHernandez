@@ -45,8 +45,35 @@ En GMV es el producto final, la ingenieria de software y los sistemas son el cor
 - Infraestructura Híbridad: Usan nubes privadas y públicas para procesar cantidades masivas de datos
 
 - [ ] **3. Identificación de necesidades tecnológicas**
+
+## Planteamiento del proyecto
+
+Teniendo en  cuenta que GMV es una empresa a nivel mundial no necesita ningun proyecto para solucionar problemas básicos, son mas bien necesidades de alta necesidad como la escalabilidad o mejorar la eficiencia de los procesos. Por eso detectaremos sus necesidades principales como empresa:
+
+- Gestón de entornos de simulación crítica: Usan un software muy pesado, si ejecutan esto en unos ordenadores simples de oficina, al depender de la potencia de ese equipo, puede ser lento e inseguro que el servidor mueva terabytes de datos a estos equipos.
+- Protección absoluta de los datos y seguridad híbrida: Al trabajar con información confidencial, no se pueden permitir ningun fallo en la seguridad de esta. Además con el aumento del teletrabajo, el uso de vpns convencionales puede ser un fallo fatal de seguridad.
+- Orden en los entornos de desarrollo: Se deben mantener todos los dispositivos actualizados con los mismos parches de seguridad, librerias y compiladores. Un fallo de una maquina en concreto puede ser una gran perdida de tiempo.
+
+
+Para gestionar cada uno de estos procesos, crearemos las soluciones propias:
+
+- Crearemos una granja de servidores a los que los usuarios de la empresa accedan y tengan directamente una gran potencia que proviene de los servidores.
+-  Implementaremos verificación en dos pasos para que los usuarios de la empresa accedan a la potencia del servidor e insertaremos una micro-segmentacion de la red, con un firewall que no permita al usuario mas que acceder a la aplicacion que le sea necesaria para trabajar y encriptaremos todo el trafico.
+-  Crearemos imagenes dispositivos generales para los perfiles que usen las maquinas y asi siempre poder insertar maquinas donde y cuando queramos sin necesidad de desperdiciar tiempo en configurar individualmente cada dispositivo.
+
 - [ ] **4. Oportunidades y viabilidad del proyecto**
+
+ Estas propuestas cumplen con las necesidades de una empresa de la magnitud de GMV, Ademas se podria aplicar en cualquier en esta empresa y en cualquiera que tenga problemas parecidos con la gestion de informacion y el control de acceso.. Tambien soluciona los problemas de creacion de imagenes generales que      cualquier empresa puede necesitar para crear maquinas de manera rápida y sin necesidad de preocuparse.
+ 
+ Aporta beneficios como la 100% seguridad de que los datos no salen del centro de datos, reduces el tiempo de soporte en incidencias individuales, ahorras en hardware ya que no necesitas un equipo potente para cada uno de los empleados solo el servidor potente.
+
 - [ ] **5. Obligaciones legales y normativas**
+
+ Al gestionar usuarios y contraseñas el proyecto esta sujeto al Reglamenteo General de proteccion de datos Europeo (RGPD) y a la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD)
+
+En el Art. 32 RGPD la ley obliga a aplicar medidas tecnicas para garantizar un nivel apropiado al riesgo. Esto se cumple ya que el tráfico estara cifrado.
+
+
 - [ ] **6. Guion inicial del proyecto**
 
 ## Enlaces a recursos de la unidad
