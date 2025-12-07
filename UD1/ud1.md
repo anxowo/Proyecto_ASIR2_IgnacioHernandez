@@ -71,10 +71,26 @@ Para gestionar cada uno de estos procesos, crearemos las soluciones propias:
 
  Al gestionar usuarios y contraseñas el proyecto esta sujeto al Reglamenteo General de proteccion de datos Europeo (RGPD) y a la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD)
 
-En el Art. 32 RGPD la ley obliga a aplicar medidas tecnicas para garantizar un nivel apropiado al riesgo. Esto se cumple ya que el tráfico estara cifrado.
+- En el Art. 32 RGPD la ley obliga a aplicar medidas tecnicas para garantizar un nivel apropiado al riesgo. Esto se cumple ya que el tráfico estara cifrado.
 
+- Ley de Servicios de la Sociedad de la Información y de Comercio Electrónico (La Ley 34/2002   LSSI-CE), es la normativa española que regula las actividades en Internet, estableciendo el marco legal para los servicios digitales.
+
+- ENS (RD 311/2022), Al GMV trabajar con la administración pública y Defensa, sus sistemas deben certificarse en el esquema nacional de Seguridad.
+
+- Licencias de Software, Necesitaria las licencias de windows (por volumen) para los sistemas de los empleados.
+
+- Al proponer un sistema de teletrabajo, Ley de trabajo a distancia (Ley 10/2021)
 
 - [ ] **6. Guion inicial del proyecto**
+#### Nombre: Despliegue de infraestructura segura con arquitectura Zero Trust para entornos críticos
+
+#### Datos de la empresa: GMV, Sevillatechpark (Cartuja), Desarrollo de sistemas, software y tecnmologias espaciales.
+
+#### Deteccion de necesidades: Mejorar la potencia de los equipos, Seguridad de los datos, facilitar implementacion de perfiles en los dispositivos.
+
+#### Propuesta de proyecto: Arquitectura de acceso, seguridad perimetral y gestion de sistemas.
+
+#### Conclusión: Al implementar este proyecto en la empresa la empresa obtendra: Seguridad total, Agilidad Operatica y eficiencia. 
 
 ## Enlaces a recursos de la unidad
 
@@ -82,7 +98,5 @@ En el Art. 32 RGPD la ley obliga a aplicar medidas tecnicas para garantizar un n
 - [Diagramas e imágenes](./img/)
 
   ## Bibliografía / Webgrafía 
-- Autor1, Título del libro o artículo, Editorial/Año.
-- Sitio web oficial: [Enlace](https://www.ejemplo.com)
-- Tutoriales y guías recomendadas: [Enlace](https://www.ejemplo2.com)
+- Sitio web oficial: [Enlace](https://www.gmv.com/es-es)
 
